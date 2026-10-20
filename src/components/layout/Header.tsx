@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { useLanguage } from '../../i18n/LanguageContext';
 import { brandConfig } from '../../config/brand';
 import { LanguageSwitcher } from './LanguageSwitcher';
